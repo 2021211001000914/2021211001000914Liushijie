@@ -11,7 +11,6 @@
     <title>Register</title>
 </head>
 <br>
-  <form>
      New User Registration!</br>
 <form method="post" action="Register"><!-- within do post() in servlet-->
     <input type="text" name="username"placeholder="username"></br>
