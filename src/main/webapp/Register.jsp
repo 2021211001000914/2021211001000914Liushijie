@@ -11,6 +11,7 @@
     <title>Register</title>
 </head>
 <br>
+  <form>
      New User Registration!</br>
     <input type="text" name="username"placeholder="Username"></br>
     <input type="text" name="password"placeholder="Password"></br>
